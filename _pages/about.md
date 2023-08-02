@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Yannian Gu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Short Bio
+======
+
 Hello!
 
 Recent News
